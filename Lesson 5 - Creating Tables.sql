@@ -9,3 +9,6 @@ CREATE TABLE Dogs(
 	Name VARCHAR(50),
     Age INT
 );
+
+SHOW COLUMNS FROM Cats;
+SHOW COLUMNS FROM Dogs;
